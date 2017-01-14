@@ -1,5 +1,4 @@
 ﻿<?php
-
 // Replace this with your own email address
 $siteOwnersEmail = 'contact@luongdanghai.com';
 
