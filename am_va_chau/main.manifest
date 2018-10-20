@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+# v7
+
+CACHE:
+assets/js/jquery.min.js
+assets/js/custom.js
+assets/js/main.js
+assets/js/skel.min.js
+assets/css/font-awesome.min.css
+assets/css/main.css
+index.html
+main.manifest
+
+# iPhone App files (for full-screen app mode).
+icon.png
+home.png
+
+# Images that get viewed.
+images/am_va_chau.jpg
+images/bg.jpg
+images/overlay.png
+
+NETWORK:
+*
