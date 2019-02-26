@@ -1,0 +1,16 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jarvisluong/personal-website.git",
+  "author": "Luong Dang Hai <jarvisluong@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "baseUrl": "https://luongdanghai.com",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
+}
